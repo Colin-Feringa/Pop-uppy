@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":"AAIAA,OAAOC,QAJP,WAEA","sources":["webpack://pop-uppy/./src/index.js"],"sourcesContent":["function popUppy() {\r\n    \r\n}\r\n\r\nwindow.popUppy = popUppy;"],"names":["window","popUppy"],"sourceRoot":""}
